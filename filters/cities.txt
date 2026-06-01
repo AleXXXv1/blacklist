@@ -20,6 +20,7 @@ krasnodar
 kuznetsk
 sochi
 novayariga
+konstantinopol
 tula
 syzran
 kursk
