@@ -17,6 +17,7 @@ voronezh
 chelyabinsk
 irkutsk
 krasnodar
+kuznetsk
 sochi
 novayariga
 tula
