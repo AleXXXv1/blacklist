@@ -62,3 +62,4 @@ chita
 angola
 bolivia
 magadan
+novosib
