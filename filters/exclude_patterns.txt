@@ -4,10 +4,14 @@ pharmacy
 azino
 farm
 777
+coin
 pharm
+capital
 volcan
 grib
+invest
 apteka
+trust
 drug
 wulkan
 zaklad
@@ -41,7 +45,7 @@ dipplomn
 clinic
 farm
 diplom
-gay
+
 pasport
 pristavy
 anatoriy
@@ -79,6 +83,7 @@ ruletka
 gayporn
 gayp
 gays
+gay
 lesb
 vulkan
 rulet
