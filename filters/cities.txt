@@ -24,6 +24,7 @@ tula
 syzran
 kursk
 murom
+belgorod
 uzbekistan
 krasnoyarsk
 komi
