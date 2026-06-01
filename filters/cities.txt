@@ -8,6 +8,7 @@ ekb
 yekaterinburg
 kazan
 ufa
+kurchatov
 perm
 omsk
 samara
