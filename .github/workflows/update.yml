@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: '17 3 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   update:
 
@@ -19,21 +22,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: |
-          pip install -r requirements.txt
+      - run: pip install -r requirements.txt
 
-      - run: |
-          python build.py
+      - run: python build.py
 
       - name: Commit changes
         run: |
-
           git config user.name github-actions
           git config user.email github-actions@github.com
 
           git add output/
 
-          git diff --cached --quiet || \
-          git commit -m "update list"
+          git diff --cached --quiet || git commit -m "update list"
 
           git push
