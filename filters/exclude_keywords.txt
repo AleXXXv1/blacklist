@@ -1,0 +1,15 @@
+casino
+bet
+slot
+poker
+blackjack
+roulette
+
+drug
+weed
+cannabis
+cocaine
+heroin
+mdma
+amphetamine
+meth
