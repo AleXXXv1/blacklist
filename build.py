@@ -65,6 +65,11 @@ def fetch_json(url):
 
     r.raise_for_status()
 
+print(r.url)
+print(r.status_code)
+print(r.headers.get("content-type"))
+print(r.text[:1000])
+    
     return r.json()
 
 
