@@ -5,11 +5,15 @@ azino
 farm
 777
 pharm
+volcan
+grib
 apteka
 drug
+wulkan
 zaklad
 klad
 kladman
+kolesa
 zakladka
 alko
 narko
@@ -20,6 +24,7 @@ amphetamine
 mefedron
 mephedrone
 lots
+massage
 meth
 mdma
 vavada
