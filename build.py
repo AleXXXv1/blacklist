@@ -1,29 +1,37 @@
 import requests
 import tldextract
 import re
+
 from pathlib import Path
 
-OUTPUT = "output/russia-blocked.txt"
+RAW_OUTPUT = "output/rkn_raw.txt"
+FINAL_OUTPUT = "output/russia-blocked.txt"
 
 BLOCKEDIN_DOMAINS = "https://blockedin.org/api/v3/domains/"
-BLOCKEDIN_DPI = "https://blockedin.org/api/v3/dpi/"
 BLOCKEDIN_IPS = "https://blockedin.org/api/v3/ips/"
 
 
-def load_keywords():
-    with open(
-        "filters/exclude_keywords.txt",
-        encoding="utf-8"
-    ) as f:
-        return {
-            x.strip().lower()
-            for x in f
-            if x.strip()
-        }
+def fetch_json(url):
+    r = requests.get(
+        url,
+        timeout=120
+    )
+
+    r.raise_for_status()
+
+    body = r.text.strip()
+
+    if not body:
+        return []
+
+    return r.json()
 
 
 def normalize_domain(domain):
-    domain = domain.lower().strip()
+
+    domain = str(domain).strip().lower()
+
+    domain = domain.replace('"', '')
 
     domain = re.sub(
         r"^https?://",
@@ -39,47 +47,14 @@ def normalize_domain(domain):
         return None
 
     return ".".join(
-        part for part in [
-            ext.domain,
-            ext.suffix
-        ]
-        if part
+        x
+        for x in [ext.domain, ext.suffix]
+        if x
     )
-
-
-def contains_bad_keyword(text, keywords):
-    text = text.lower()
-
-    for kw in keywords:
-        if kw in text:
-            return True
-
-    return False
-
-
-def fetch_json(url):
-    r = requests.get(
-        url,
-        timeout=60
-    )
-
-    print()
-    print("URL:", r.url)
-    print("STATUS:", r.status_code)
-    print("CONTENT-TYPE:", r.headers.get("content-type"))
-
-    r.raise_for_status()
-
-    body = r.text.strip()
-
-    if not body:
-        print("EMPTY RESPONSE")
-        return []
-
-    return r.json()
 
 
 def collect_domains():
+
     result = set()
 
     data = fetch_json(
@@ -87,29 +62,10 @@ def collect_domains():
     )
 
     if isinstance(data, list):
+
         for item in data:
-            domain = normalize_domain(
-                str(item)
-            )
 
-            if domain:
-                result.add(domain)
-
-    return result
-
-
-def collect_dpi():
-    result = set()
-
-    data = fetch_json(
-        BLOCKEDIN_DPI
-    )
-
-    if isinstance(data, list):
-        for item in data:
-            domain = normalize_domain(
-                str(item)
-            )
+            domain = normalize_domain(item)
 
             if domain:
                 result.add(domain)
@@ -118,40 +74,159 @@ def collect_dpi():
 
 
 def collect_ips():
+
     result = set()
 
-    data = fetch_json(
-        BLOCKEDIN_IPS
-    )
+    try:
 
-    if isinstance(data, list):
-        for item in data:
-            result.add(str(item).strip())
+        data = fetch_json(
+            BLOCKEDIN_IPS
+        )
+
+        if isinstance(data, list):
+
+            for item in data:
+                result.add(
+                    str(item).strip()
+                )
+
+    except Exception as e:
+
+        print(
+            "IPS ERROR:",
+            e
+        )
 
     return result
 
 
-def main():
-    keywords = load_keywords()
+def load_patterns():
 
-    domains = set()
+    try:
 
-    domains |= collect_domains()
-    domains |= collect_dpi()
+        with open(
+            "filters/exclude_patterns.txt",
+            encoding="utf-8"
+        ) as f:
 
-    domains = {
-        d for d in domains
-        if not contains_bad_keyword(
-            d,
-            keywords
-        )
-    }
+            return [
+                x.strip().lower()
+                for x in f
+                if x.strip()
+            ]
 
-    ips = collect_ips()
+    except:
 
-    final = sorted(
-        domains | ips
+        return []
+
+
+def load_cities():
+
+    try:
+
+        with open(
+            "filters/cities.txt",
+            encoding="utf-8"
+        ) as f:
+
+            return [
+                x.strip().lower()
+                for x in f
+                if x.strip()
+            ]
+
+    except:
+
+        return []
+
+
+def load_manual():
+
+    try:
+
+        with open(
+            "sources/manual_geoblocked.txt",
+            encoding="utf-8"
+        ) as f:
+
+            return {
+                x.strip().lower()
+                for x in f
+                if x.strip()
+            }
+
+    except:
+
+        return set()
+
+
+def should_skip_by_pattern(
+    domain,
+    patterns
+):
+
+    d = domain.lower()
+
+    for pattern in patterns:
+
+        if pattern in d:
+            return True
+
+    return False
+
+
+def contains_city(
+    domain,
+    cities
+):
+
+    d = domain.lower()
+
+    for city in cities:
+
+        if city in d:
+            return True
+
+    return False
+
+
+def looks_like_mirror(domain):
+
+    name = domain.split(".")[0]
+
+    digits = sum(
+        c.isdigit()
+        for c in name
     )
+
+    if digits >= 4:
+        return True
+
+    if re.search(
+        r"\d+-\d+",
+        name
+    ):
+        return True
+
+    return False
+
+
+def save_file(
+    path,
+    entries
+):
+
+    with open(
+        path,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        for item in sorted(entries):
+            f.write(item + "\n")
+
+
+def main():
 
     Path(
         "output"
@@ -159,16 +234,59 @@ def main():
         exist_ok=True
     )
 
-    with open(
-        OUTPUT,
-        "w",
-        encoding="utf-8"
-    ) as f:
-        for item in final:
-            f.write(item + "\n")
+    domains = collect_domains()
+
+    ips = collect_ips()
+
+    save_file(
+        RAW_OUTPUT,
+        domains | ips
+    )
 
     print(
-        f"saved {len(final)} entries"
+        f"RAW: {len(domains)} domains"
+    )
+
+    patterns = load_patterns()
+
+    cities = load_cities()
+
+    filtered = set()
+
+    for domain in domains:
+
+        if should_skip_by_pattern(
+            domain,
+            patterns
+        ):
+            continue
+
+        if contains_city(
+            domain,
+            cities
+        ):
+            continue
+
+        if looks_like_mirror(
+            domain
+        ):
+            continue
+
+        filtered.add(
+            domain
+        )
+
+    filtered |= load_manual()
+
+    final = filtered | ips
+
+    save_file(
+        FINAL_OUTPUT,
+        final
+    )
+
+    print(
+        f"FINAL: {len(final)} entries"
     )
 
 
