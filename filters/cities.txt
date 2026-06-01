@@ -10,6 +10,8 @@ kazan
 ufa
 kurchatov
 perm
+abhazia
+essentuki
 omsk
 samara
 novosibirsk
@@ -17,6 +19,7 @@ volgograd
 voronezh
 chelyabinsk
 irkutsk
+kuban
 krasnodar
 kuznetsk
 sochi
