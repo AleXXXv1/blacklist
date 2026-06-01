@@ -4,6 +4,7 @@ donbass
 blagoveshensk
 msk
 kemerovo
+sakhalin
 gelendzhik
 ivan
 nalchik
