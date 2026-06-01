@@ -67,11 +67,14 @@ def fetch_json(url):
     print("URL:", r.url)
     print("STATUS:", r.status_code)
     print("CONTENT-TYPE:", r.headers.get("content-type"))
-    print("BODY:")
-    print(r.text[:1000])
-    print()
 
     r.raise_for_status()
+
+    body = r.text.strip()
+
+    if not body:
+        print("EMPTY RESPONSE")
+        return []
 
     return r.json()
 
