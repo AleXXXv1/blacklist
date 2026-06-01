@@ -12,6 +12,7 @@ borisov
 anapa
 ural
 moskow
+pyatigorsk
 alushty
 boston
 piter
