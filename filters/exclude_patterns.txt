@@ -8,6 +8,7 @@ coin
 kraken
 pharm
 capital
+cobra
 volcan
 grib
 dealer
