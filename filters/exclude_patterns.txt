@@ -5,6 +5,7 @@ azino
 farm
 777
 coin
+kraken
 pharm
 capital
 volcan
