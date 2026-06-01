@@ -26,3 +26,4 @@ uzbekistan
 krasnoyarsk
 komi
 yakutia
+rostov
