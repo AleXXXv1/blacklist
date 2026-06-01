@@ -1,6 +1,7 @@
 moscow
 moskva
 msk
+domodedovo
 spb
 saint-petersburg
 ekb
