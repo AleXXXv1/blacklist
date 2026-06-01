@@ -11,6 +11,7 @@ borisov
 anapa
 moskow
 alushty
+boston
 piter
 simferopol
 kiev
