@@ -23,6 +23,7 @@ casino
 cazino
 kasino
 kazino
+poker
 slot
 roulette
 blackjack
@@ -45,7 +46,7 @@ stavki
 bingo
 shop
 market
-
+promo
 
 gayporn
 gayp
@@ -53,8 +54,10 @@ gays
 lesb
 
 lordfilm
+lord-film
 kinogo
 rezka
 hdrezka
 filmix
 kinokrad
+zerkalo
