@@ -2,6 +2,7 @@
 hydra
 pharmacy
 azino
+cas1no
 farm
 777
 coin
@@ -13,6 +14,7 @@ cobra
 volcan
 grib
 dealer
+polis
 invest
 1wr
 boy
