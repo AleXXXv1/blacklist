@@ -10,6 +10,7 @@ capital
 volcan
 grib
 invest
+wallet
 apteka
 trust
 drug
@@ -20,6 +21,7 @@ kladman
 kolesa
 zakladka
 alko
+sprawki
 narko
 khabar
 narcotics
@@ -45,7 +47,7 @@ dipplomn
 clinic
 farm
 diplom
-
+weapon
 pasport
 pristavy
 anatoriy
@@ -111,6 +113,7 @@ alco
 1-vet
 med
 1wo
+bank
 trading
 sprawka
 admiral
