@@ -6,6 +6,7 @@ cas1no
 farm
 777
 coin
+attestat
 kraken
 futanar
 seed
