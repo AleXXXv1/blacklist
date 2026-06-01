@@ -6,6 +6,7 @@ farm
 777
 coin
 kraken
+omg
 pharm
 capital
 cobra
