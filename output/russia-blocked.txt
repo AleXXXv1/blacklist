@@ -59656,6 +59656,7 @@
 109.172.87.146
 109.172.87.45
 109.172.87.81
+109.172.88.129
 109.172.89.32
 109.172.89.55
 109.172.90.112
@@ -65656,6 +65657,7 @@
 14.0.37.93
 14.0.57.13
 14.1.30.26
+14.102.228.102
 14.102.228.103
 14.102.228.105
 14.102.228.106
@@ -67685,6 +67687,7 @@
 145.223.70.206
 145.223.70.76
 145.223.70.81
+145.223.70.83
 145.223.77.10
 145.223.77.112
 145.223.77.113
@@ -69845,6 +69848,7 @@
 151.244.91.4
 151.244.91.6
 151.244.91.8
+151.244.91.9
 151.245.137.103
 151.245.137.107
 151.245.137.14
@@ -76748,6 +76752,8 @@
 172.232.206.74
 172.232.207.173
 172.232.219.218
+172.232.24.161
+172.232.24.235
 172.232.25.148
 172.232.31.180
 172.232.33.121
@@ -76834,6 +76840,7 @@
 172.234.222.143
 172.234.24.211
 172.234.25.151
+172.234.25.42
 172.234.56.194
 172.234.57.114
 172.234.57.224
@@ -115552,6 +115559,7 @@
 185.176.24.196
 185.176.24.197
 185.176.24.198
+185.176.24.199
 185.176.24.2
 185.176.24.21
 185.176.24.22
@@ -123385,14 +123393,17 @@
 188.137.236.85
 188.137.236.86
 188.137.237.128
+188.137.237.14
 188.137.237.168
 188.137.237.75
 188.137.237.77
 188.137.237.78
 188.137.238.152
+188.137.238.186
 188.137.238.201
 188.137.238.205
 188.137.238.214
+188.137.238.83
 188.137.239.129
 188.137.239.175
 188.137.239.197
@@ -123454,6 +123465,7 @@
 188.137.246.119
 188.137.246.122
 188.137.246.128
+188.137.246.131
 188.137.246.143
 188.137.246.144
 188.137.246.151
@@ -123503,6 +123515,7 @@
 188.137.248.19
 188.137.248.190
 188.137.248.205
+188.137.248.228
 188.137.248.32
 188.137.248.36
 188.137.248.55
@@ -123514,6 +123527,7 @@
 188.137.249.113
 188.137.249.123
 188.137.249.130
+188.137.249.133
 188.137.249.135
 188.137.249.141
 188.137.249.156
@@ -123633,6 +123647,8 @@
 188.137.255.168
 188.137.255.169
 188.137.255.173
+188.137.255.177
+188.137.255.205
 188.137.255.70
 188.137.255.80
 188.138.10.211
@@ -125879,6 +125895,7 @@
 191.101.213.177
 191.101.213.35
 191.101.213.53
+191.101.213.81
 191.101.215.147
 191.101.225.83
 191.101.230.20
@@ -127366,6 +127383,7 @@
 193.124.65.202
 193.124.65.216
 193.124.65.5
+193.124.66.61
 193.124.66.88
 193.124.67.228
 193.124.67.35
@@ -128384,6 +128402,7 @@
 193.239.68.38
 193.239.71.100
 193.239.85.50
+193.24.232.99
 193.242.184.2
 193.242.211.151
 193.242.211.172
@@ -130142,6 +130161,7 @@
 195.123.228.187
 195.123.228.45
 195.123.228.56
+195.123.229.197
 195.123.229.202
 195.123.229.203
 195.123.230.66
@@ -137587,6 +137607,7 @@
 203.29.53.211
 203.29.53.214
 203.29.53.216
+203.29.53.217
 203.29.53.22
 203.29.53.227
 203.29.53.23
@@ -137701,6 +137722,7 @@
 203.29.54.218
 203.29.54.224
 203.29.54.226
+203.29.54.227
 203.29.54.228
 203.29.54.23
 203.29.54.232
@@ -141849,6 +141871,7 @@
 212.43.148.186
 212.43.148.21
 212.43.148.210
+212.43.148.219
 212.43.149.22
 212.43.149.220
 212.43.150.129
@@ -141887,6 +141910,7 @@
 212.43.157.77
 212.43.157.88
 212.43.157.98
+212.43.158.233
 212.43.159.165
 212.44.101.104
 212.44.102.241
@@ -303518,6 +303542,7 @@
 28weeks.ru
 29-kra.ru
 29-mirr-ku5h.net
+293royalrussia.com
 297km.ru
 297leon.top
 29cheki.ru
@@ -322193,6 +322218,7 @@
 2a13:4ac0:20:12:f816:3eff:fe5a:bde
 2a13:4ac0:20:12:f816:3eff:fe6d:4cd7
 2a13:4ac0:20:12:f816:3eff:fe7c:b1d2
+2a13:4ac0:20:12:f816:3eff:feb2:f0dd
 2a13:4ac0:20:12:f816:3eff:fec6:819b
 2a13:4ac0:20:12:f816:3eff:fecb:d515
 2a13:4ac0:20:12:f816:3eff:fefd:8037
@@ -322222,6 +322248,7 @@
 2a13:4ac0:20:17:f816:3eff:fe1d:70a7
 2a13:4ac0:20:17:f816:3eff:fe27:14f3
 2a13:4ac0:20:17:f816:3eff:fe2a:1c7
+2a13:4ac0:20:17:f816:3eff:fe5c:c9
 2a13:4ac0:20:17:f816:3eff:fe66:49fa
 2a13:4ac0:20:17:f816:3eff:fee7:7b1b
 2a13:4ac0:20:18:f816:3eff:fe7b:1087
@@ -334120,6 +334147,7 @@
 45.147.197.20
 45.147.197.204
 45.147.197.206
+45.147.197.210
 45.147.197.212
 45.147.197.213
 45.147.197.218
@@ -334682,6 +334710,7 @@
 45.150.37.6
 45.150.37.77
 45.150.37.94
+45.150.38.105
 45.150.38.125
 45.150.38.180
 45.150.38.4
@@ -338464,6 +338493,7 @@
 46.174.143.133
 46.174.143.139
 46.174.143.145
+46.174.143.192
 46.174.143.199
 46.174.143.62
 46.174.143.63
@@ -344695,6 +344725,7 @@
 51.158.164.18
 51.158.164.2
 51.158.164.78
+51.158.165.118
 51.158.165.144
 51.158.165.145
 51.158.165.184
@@ -356496,6 +356527,7 @@
 77.220.212.236
 77.220.212.240
 77.220.212.247
+77.220.212.251
 77.220.212.33
 77.220.212.57
 77.220.212.61
@@ -360117,6 +360149,7 @@
 80.89.237.226
 80.89.237.232
 80.89.237.24
+80.89.237.41
 80.89.237.65
 80.89.237.84
 80.89.237.87
@@ -364984,6 +365017,7 @@
 88.210.10.19
 88.210.12.147
 88.210.12.226
+88.210.12.252
 88.210.12.33
 88.210.13.127
 88.210.13.183
@@ -365634,6 +365668,7 @@
 89.105.217.47
 89.105.217.61
 89.105.217.65
+89.105.217.78
 89.105.217.84
 89.105.223.100
 89.105.223.105
@@ -366285,6 +366320,7 @@
 89.187.73.200
 89.187.73.203
 89.187.73.205
+89.187.73.219
 89.187.73.221
 89.187.73.223
 89.187.73.227
@@ -373116,6 +373152,7 @@
 95.129.237.39
 95.129.237.48
 95.129.237.52
+95.129.237.60
 95.129.237.71
 95.129.237.87
 95.129.237.88
@@ -374965,6 +375002,7 @@ abaq.xyz
 abarbaris.ru
 abarona.org
 abarussia.ru
+abaservis.ru
 abashev-pol.ru
 abasicagrace.ru
 abaskino.cfd
@@ -375397,6 +375435,7 @@ abstracta.com.py
 abstractskatepursereason.click
 abstraho.xyz
 abstrugatskie.ru
+abstylesfabrics.com
 absurdu.net
 absystem.cc
 absystem.pro
@@ -381840,6 +381879,7 @@ almirakichabi.online
 almishkat.pk
 almohrer.com
 almondina.net
+almondsweet.ru
 almorrisbaseball.com
 almovement.top
 almrx.net
@@ -381928,6 +381968,7 @@ alouiconsulting.net
 aloun-dici.info
 alound.xyz
 aloundici.com
+alov-az.com
 alp-air.ru
 alp-fund-pro.com
 alp-spil.ru
@@ -383463,6 +383504,7 @@ amp-go-link.top
 amp-go-wave.info
 amp-gs-mob-03.xyz
 amp-hub-web.top
+amp-itark.ru
 amp-j2u.top
 amp-kent-1.ru
 amp-kent-11.ru
@@ -383476,6 +383518,7 @@ amp-kent-55.ru
 amp-kent-66.ru
 amp-kent-99.ru
 amp-komsomol43.online
+amp-ktprt.ru
 amp-kura-kz.online
 amp-login-kzsite.online
 amp-lucky-top894.cfd
@@ -388184,6 +388227,7 @@ areal-test.ru
 arealme.com
 arealnn.ru
 arealporn.com
+areapanels.ru
 arearun.ru
 areas.news
 areastandard.com
@@ -389061,6 +389105,7 @@ arkpest.com.au
 arkpetrov.ru
 arkreich-system.com
 arkserial.ru
+arksin.ru
 arktika52.ru
 arktraddes.com
 arktur-nadym.ru
@@ -389454,6 +389499,7 @@ art-gala.ru
 art-galery.ru
 art-glaz.ru
 art-grill.ru
+art-hause.ru
 art-hien.ru
 art-horizons.ru
 art-hot.com
@@ -390515,6 +390561,7 @@ asexstories.com
 asexypanties.com
 asexyporn.com
 asf-pfa.info
+asfalt-dmitrov.ru
 asfalt-dorog-vrn.ru
 asfalt-garant.ru
 asfalt-um.ru
@@ -391578,6 +391625,7 @@ astrolog-bishkek.ru
 astrologia-online.ru
 astrologiya-vedi.ru
 astrologkaptelina.ru
+astrologyzabanova.ru
 astromarina.ru
 astromarkkets.com
 astromartin.ru
@@ -394896,6 +394944,7 @@ aviatorlab.ru
 aviatornadengi.ru
 aviatornadengi2.online
 aviatornadengi2.ru
+aviatornadengi3.online
 aviatorofficial.ru
 aviatoronline.com.kz
 aviatoronline.games
@@ -400485,6 +400534,7 @@ bazanedv.ru
 bazanovv.ru
 bazaonega.ru
 bazaonion.vip
+bazaonline.ru
 bazaotradnoe.ru
 bazapoiska.info
 bazapolyanaykt.ru
@@ -402191,6 +402241,7 @@ bekmobil.ru
 bekmx.com
 bekopedia.ru
 bekova.ru
+bekstom.kz
 bekufyu3.pro
 bekveld.ru
 bel-bambino.ru
@@ -402700,6 +402751,7 @@ benefort.org
 benelli.tech
 beneluxai.com
 benetti-aura.ru
+benev-rus.ru
 beneviafundex-engine.com
 benevivamus.ru
 benfacil.com
@@ -403333,6 +403385,7 @@ best-serv.ru
 best-soft.net
 best-status.ru
 best-stroy.ru
+best-super-amp723.cfd
 best-super-online763.cfd
 best-t24.com
 best-top-game55.cfd
@@ -406172,6 +406225,7 @@ biogard-com.ru
 biogenearray.com
 biogenixresearchchem.com
 biogerontology.ru
+biogetics.ru
 biografiya.in.ua
 biograph-soldat.ru
 biohack.ru
@@ -409772,6 +409826,7 @@ blockshova.click
 blocksincome.com
 blocksprut.com
 blocksprut.net
+blockstrike-igry.ru
 blockteamscore.com
 blockteamx.com
 blocktokenpro.com
@@ -410202,6 +410257,7 @@ bluebrick.top
 bluebrickrecordings.com
 bluebutterflyproject.org
 bluecambrianclay.ru
+bluecatart.ru
 bluecatrestaurant.com
 bluechip-luxeron.com
 bluechipadvisor.live
@@ -414625,6 +414681,8 @@ brillx91.gg
 brillx92.gg
 brillx93.gg
 brillx94.gg
+brillx95.gg
+brillx98.gg
 brillxafe.site
 brillxapp.click
 brillxapp.com
@@ -421528,6 +421586,7 @@ cas-x-ino.ru
 cas-x.online
 cas0.click
 cas0inoauf.com
+cas194ino.top
 cas1n.top
 cas1n0a1uf.com
 cas1n0auf.com
@@ -422484,6 +422543,7 @@ cat-amp-artgrie.ru
 cat-amp-chastoozerie.ru
 cat-amp-ikea-bedroom.ru
 cat-amp-sa95.ru
+cat-amp-skazki-priskazki.ru
 cat-best.top
 cat-best24.top
 cat-bomba.space
@@ -422507,6 +422567,7 @@ cat-links.ru
 cat-mine.ru
 cat-mirror.top
 cat-mmlrdf.top
+cat-mobile17-amp.ru
 cat-mobile4-amp.ru
 cat-mouse.life
 cat-official.ru
@@ -423292,6 +423353,7 @@ cdn-kyocera.ru
 cdn-valery.ru
 cdn-website.com
 cdn-x.ru
+cdnaudio.ru
 cdncimeco.com
 cdneo.life
 cdnet.ru
@@ -427227,6 +427289,7 @@ chocolateorpoop.com
 chocolateparadise54.ru
 chocolateparty.ru
 chocolatepeanut.info
+chocolatepro.ru
 chocolatesshroombars.com
 chocolatewithlogo.ru
 chocolateworksnyc.com
@@ -427392,6 +427455,7 @@ chromebrowser.ru
 chromefaq.ru
 chromefjrh.space
 chromega.ru
+chromev-wholterg.top
 chromevpn.biz
 chromezing.com
 chromezyk.com
@@ -429137,6 +429201,7 @@ climatecrisis.icu
 climateexchangeplc.com
 climatefx-ltd.com
 climateknowledge.digital
+climatesocialcamp.com
 climatevent.ru
 climatexpert24.ru
 climatgood.ru
@@ -429939,6 +430004,7 @@ clubnika1.ru
 clubnika10.ru
 clubnika11.ru
 clubnika12.ru
+clubnika139.fun
 clubnika14.ru
 clubnika19.ru
 clubnika22.ru
@@ -430337,6 +430403,7 @@ cm-overview.pro
 cm-realestate.ru
 cm-servise.ru
 cm-tryx.info
+cm116.ru
 cm707.com
 cm707.net
 cmanikat.ru
@@ -437935,8 +438002,10 @@ dacuneu2.pro
 dad-amp-banya.ru
 dad-amp-karabit2.ru
 dad-amp-karabits.ru
+dad-amp-nvtarget.ru
 dad-amp-psihol.ru
 dad-amp-psihol2.ru
+dad-amp-seog.ru
 dad-amp-termo-print26.ru
 dad-amp-tvorches.ru
 dad-amp-vetkd.ru
@@ -441861,6 +441930,7 @@ design-rapport.ru
 design-remont-kvartir.ru
 design-sada.ru
 design-samolet.ru
+design-secrets.ru
 design-sn.ru
 design-st.ru
 design-stories.ru
@@ -443052,6 +443122,7 @@ diagram.com.ua
 diagrammagolosa.ru
 diagrem.ru
 diagtest.ru
+dial-personal.ru
 dial69.com
 dialc.ru
 dialecstrue.online
@@ -450360,6 +450431,7 @@ drgm.site
 drgm392.cfd
 drgmm.online
 drgmny.team
+drgmony.team
 drgn-100amp.ru
 drgn-21amp.ru
 drgn-25amp.ru
@@ -451321,6 +451393,7 @@ drutor.site
 drutor.tech
 druvaxio-app.com
 druzba-modul.ru
+druzbacamp.ru
 druzfan.ru
 druzhba-cafe.ru
 druzhba-frolovskoe.ru
@@ -456452,6 +456525,7 @@ elacademy.ru
 elaceiteema.xyz
 elaeaguehg.space
 elagin-estate.ru
+elaineri-astrakhan.ru
 elainexpress.ru
 elaivizh.eu
 elakiri.com
@@ -460779,6 +460853,7 @@ epicstar-if.com
 epicstar-lc.com
 epicstar-na.com
 epicstar-new.com
+epicstar-oficial.ru
 epicstar-online.com
 epicstar-qp.com
 epicstar-rs.com
@@ -460792,7 +460867,9 @@ epicstar.com
 epicstar.cyou
 epicstar.online
 epicstar.sbs
+epicstar1.com
 epicstar3.com
+epicstarnew.com
 epicstarweb.ru
 epicteatime.com
 epicube.su
@@ -461918,6 +461995,7 @@ eslinesite.com
 eslvsm.com
 esm.su
 esmarokkocar.com
+esmart66.ru
 esmartbit.com
 esmasblogg.se
 esmascompras.com
@@ -468321,6 +468399,8 @@ fenix-ballons.ru
 fenix-car.ru
 fenix-cars.ru
 fenix-digital.agency
+fenix-don.ru
+fenix-ek.ru
 fenix-esa.ru
 fenix-estate.ru
 fenix-expert.ru
@@ -468341,6 +468421,7 @@ fenix-montaj.ru
 fenix-nvp.ru
 fenix-office.ru
 fenix-official.com
+fenix-optima.ru
 fenix-p.ru
 fenix-prod.ru
 fenix-prof.ru
@@ -468349,6 +468430,8 @@ fenix-so.ru
 fenix-sto.ru
 fenix-stom.ru
 fenix-taxi.ru
+fenix-teatr.ru
+fenix-trans.ru
 fenix-village.ru
 fenix-vn.ru
 fenix12.com
@@ -468370,10 +468453,12 @@ fenix23.com
 fenix234.beer
 fenix234.cc
 fenix249.beer
+fenix25.ru
 fenix31.com
 fenix339.beer
 fenix380.beer
 fenix45.com
+fenix52.ru
 fenix546.beer
 fenix56.ru
 fenix585.ru
@@ -468392,6 +468477,7 @@ fenixarena.ru
 fenixazov.ru
 fenixballet.ru
 fenixbeer.ru
+fenixblack.ru
 fenixbloom.ru
 fenixcard.ru
 fenixcinema.com
@@ -468406,7 +468492,9 @@ fenixfast.click
 fenixforum.net
 fenixgirls.ru
 fenixglobals.com
+fenixgo.lol
 fenixgruz.ru
+fenixjob.ru
 fenixklapan.ru
 fenixlokomotiv.ru
 fenixmemorial.ru
@@ -468438,6 +468526,7 @@ fenixtruslegal.ru
 fenixtruspartners.ru
 fenixx-fans.ru
 fenixx-repack.ru
+fenixyug.ru
 feniya.ru
 fenlari.ru
 fenlira.digital
@@ -474375,6 +474464,7 @@ floppyhatstudio.com
 flopturnriver.com
 flor-diamond.club
 flor.co.kr
+flora-24.ru
 flora-buket.ru
 flora-crimea.ru
 flora-feo-hotel.ru
@@ -476504,6 +476594,7 @@ forsage4.ru
 forsage52.ru
 forsage72.ru
 forsagemontages.org
+forsagewd.ru
 forsajty-serial.online
 forsamp.ru
 forsasch.fun
@@ -479828,6 +479919,7 @@ frogsblizs.space
 frogtoon.com
 frogtravelclub.ru
 froid.su
+froizers.ru
 frokmot.pro
 frolex.ru
 frolicme.com
@@ -483680,6 +483772,7 @@ game-best-super391.cfd
 game-best-top671.cfd
 game-big-bamboo.ru
 game-bigbamboo.com
+game-boost.ru
 game-cast.tv
 game-cat.online
 game-change.ru
@@ -483818,6 +483911,7 @@ game-thrones.xyz
 game-time.fun
 game-time.host
 game-time.pw
+game-top-online416.cfd
 game-top.pro
 game-torrent.co
 game-torrent.net
@@ -492562,6 +492656,7 @@ go-to-work.ru
 go-torrent.pro
 go-travels.com
 go-turbo.fun
+go-turbo.info
 go-turbo.pw
 go-turbo.site
 go-turbo.space
@@ -496237,6 +496332,7 @@ goldservice62.ru
 goldsfiesta.top
 goldsgoldergolder.top
 goldsgoldgold.top
+goldsgoldgoldis.top
 goldsinside.top
 goldsite.com.ua
 goldskey.ru
@@ -496817,6 +496913,7 @@ goodakk.ru
 goodappstudio.com
 goodarrogant.info
 goodastro.ru
+goodautomag.ru
 goodazart.com
 goodbackgroundmusic.com
 goodbakes.ru
@@ -506507,6 +506604,7 @@ hccnetwork.live
 hcdmitrov.ru
 hcermak.ru
 hcfavorit.ru
+hcfenix.ru
 hchan.me
 hchan.net
 hchan.ru
@@ -512022,6 +512120,7 @@ hotskins19.ai
 hotskins19.org
 hotskins2.ai
 hotskins2.org
+hotskins20.ai
 hotskins20.org
 hotskins3.ai
 hotskins3.org
@@ -513205,6 +513304,7 @@ human-way.ru
 humanaidbd.org
 humanconstanta.by
 humanconstanta.org
+humandesign-byfenix.ru
 humanextinction.ru
 humanfacts.ru
 humanghctl.space
@@ -522537,6 +522637,7 @@ iris52.ru
 iris72.ru
 irisaroma.ru
 irisburbonov.ru
+iriscentr.ru
 irisclubharmony.ru
 iriscom20.ru
 irisduty.ru
@@ -523640,6 +523741,7 @@ itanalyst.online
 itaneltrix-app.net
 itanoweltrix-app.com
 itapizza.ru
+itark.ru
 itarmy.com.ua
 itarmy.to
 itartifix.net
@@ -524117,6 +524219,7 @@ ivipusknik.ru
 ivisa.com
 ivisep.org
 ivivideo.com
+ivix.ru
 ivkino.ru
 ivlaw.ru
 ivlieva.net
@@ -525622,6 +525725,7 @@ jaztelemark.com
 jazycio9.pro
 jazywou.com
 jazz-blues-loft-bar.ru
+jazz-rendezvous.ru
 jazz4k.com
 jazzcoll.ru
 jazzdays.ru
@@ -527079,6 +527183,7 @@ jkdawq-kc.cloud
 jkdawq-kd.cloud
 jkdishinfo.com
 jkdue.cfd
+jkfenix.ru
 jkh-pay.ru
 jkhgtv.net
 jkikki.at
@@ -531853,6 +531958,7 @@ kaz-monr05.top
 kaz-monr06.top
 kaz-monr07.top
 kaz-pinco.com
+kaz-pinup.kz
 kaz-pinup.ru
 kaz-rus.kz
 kaz-tek.kz
@@ -532482,6 +532588,7 @@ keenrisk.com
 keens.ru
 keensandals.org
 keentro.info
+keep-nut.ru
 keep-safe.org
 keep-sane.ru
 keepbreezeintojuice.click
@@ -542100,6 +542207,7 @@ kita.org.ua
 kitab.center
 kitaevprud.ru
 kitafao0.pro
+kitai-optom.ru
 kitaidar.ru
 kitaimob.ru
 kitaiskaya-kuhnya.ru
@@ -542564,6 +542672,7 @@ klassic-wulcan.xyz
 klassicfx.com
 klassifikators.ru
 klassika-dental.ru
+klassika-tc.ru
 klassikaknigi.info
 klassikamassaga.ru
 klassinet.online
@@ -552891,6 +553000,7 @@ kraspost.top
 krasproc.ru
 krasprorab.ru
 kraspros.ru
+krasptica.ru
 krasrocks.ru
 krasroom-aparts.ru
 krasschool-17.ru
@@ -553211,6 +553321,7 @@ krekland.click
 krem.productions
 krem43.ru
 kremadm.ru
+kremators-fenix.ru
 kremen.today
 kremenchug.today
 kremerphoto.ru
@@ -558167,6 +558278,7 @@ lakiviewworld.ru
 lakiwave.kz
 lakiway.kz
 lakiwin.kz
+lakiworld-club.top
 lakiworld-lw.top
 lakiworld-online.top
 lakiworld-rulw.top
@@ -558179,6 +558291,7 @@ lakiworld.hair
 lakiworld.my
 lakiworld.one
 lakiworld.quest
+lakiworld.ru
 lakiworld.vip
 lakiworld109.com
 lakiworld111.com
@@ -561483,11 +561596,13 @@ leon-cvn318.top
 leon-cxw1.cam
 leon-czo8.cam
 leon-dci65.top
+leon-ddu44.cam
 leon-def.site
 leon-dod.cam
 leon-dostup-sait.online
 leon-download.top
 leon-dvs288.online
+leon-dwg74.cam
 leon-egd.cam
 leon-ehu.cam
 leon-ehy0.top
@@ -561864,6 +561979,8 @@ leon-top-arch.xyz
 leon-trx247.top
 leon-tryhard-mo.xyz
 leon-udw62.cam
+leon-uhf58.cam
+leon-ujh85.cam
 leon-unf73.top
 leon-uni0.top
 leon-uyc.xyz
@@ -562879,6 +562996,7 @@ lev-bazz16.ru
 lev-bazz2.ru
 lev-bazz20.ru
 lev-bazz21.ru
+lev-bazz22.ru
 lev-bazz4.ru
 lev-bazz5.ru
 lev-bazz6.ru
@@ -567743,6 +567861,7 @@ lkmt.cc
 lknt.cc
 lkpf.pro
 lkpmcdr.eu
+lkpt.ru
 lkra-34.cc
 lkra20.at
 lkra20.cc
@@ -569619,6 +569738,7 @@ lootby.run
 lootcd.run
 lootcf.run
 lootck.run
+lootcl.run
 lootde.run
 lootef.run
 lootenergy.biz
@@ -586845,6 +586965,7 @@ lovingmama.ru
 lovingmamx.ru
 lovingmarche.com
 lovingpetscare.com
+lovingyouelvis.com
 lovio.click
 loviotvet.ru
 lovisam.net
@@ -593167,6 +593288,7 @@ mapado.ru
 mapador.ru
 mapan-corevia.com
 mapan-fundcore.com
+mapanda.org
 mapapam.ru
 mapbase.ru
 mapdv.ru
@@ -594267,6 +594389,7 @@ maryanov.ru
 maryarsen.xyz
 maryatex.ru
 marybartlein.com
+marybreunig.com
 marycosmetic.ru
 maryhits.com
 maryice.ru
@@ -596434,6 +596557,7 @@ mcxvdnh.ru
 mcyber.ru
 mcykt.ru
 mczr23.ru
+md-12.ru
 md-altai.ru
 md-andreeva.ru
 md-arena.com
@@ -597123,6 +597247,7 @@ meetup72.ru
 meetwil.com
 meetyourart.ru
 mef-hashish.com
+mef0.lol
 mef1.ac
 mef2.biz
 mef24.biz
@@ -598510,6 +598635,7 @@ mehmetderin.com
 mehmetsakinc.com
 mehovoi-portal.ru
 mehrgaan.org
+mehtreyd.ru
 mehuborka-yug.ru
 mehylzgc.com
 meifruits.com
@@ -605894,6 +606020,7 @@ moneta1.vip
 moneta1.win
 moneta2.live
 moneta2.win
+moneta3.live
 moneta3.win
 moneta4.win
 moneta5.win
@@ -610348,6 +610475,7 @@ multi-amp-prij4.ru
 multi-amp-prij5.ru
 multi-amp-raug.ru
 multi-amp-reor.ru
+multi-amp-reub.ru
 multi-amp-saoy.ru
 multi-amp-sast.ru
 multi-amp-seny.ru
@@ -610886,6 +611014,7 @@ music-dic.ru
 music-dom.com
 music-dom.ru
 music-drom.com
+music-f.art
 music-full.net
 music-god.ru
 music-hall.su
@@ -624762,6 +624891,7 @@ official-pinco-20.top
 official-pinco-21.top
 official-pinco-22.top
 official-pinco-23.top
+official-pinco-24.top
 official-pinco-3.top
 official-pinco-4.top
 official-pinco-5.top
@@ -628488,6 +628618,7 @@ online-freebee.club
 online-freebee.net
 online-freebee.ru
 online-gadalka-z.ru
+online-game-best849.cfd
 online-game12.top
 online-games-russia.ru
 online-games.club
@@ -629434,6 +629565,7 @@ onx-amp-arlk.ru
 onx-amp-arlk2.ru
 onx-amp-arlk3.ru
 onx-amp-arou.ru
+onx-amp-arro.ru
 onx-amp-asai.ru
 onx-amp-asai2.ru
 onx-amp-asda.ru
@@ -629556,6 +629688,7 @@ onx-amp-velo3.ru
 onx-amp-velo4.ru
 onx-amp-velo5.ru
 onx-amp-velo6.ru
+onx-amp-voeh.ru
 onx-amp-yait.ru
 onx-amp-zus8.ru
 onx-amp-zus82.ru
@@ -629615,6 +629748,7 @@ onxapp.ru
 onxlyckygame.com
 onxredirect.com
 onxredirect.pro
+onxtraffic-mega.com
 onxtraffic.com
 onxtrafficgold.com
 onxtrafficplay.com
@@ -632033,6 +632167,7 @@ ostfilm.tv
 osthondroz.ru
 osting.xyz
 ostiolinmk.com
+ostless.ru
 ostmost.org
 ostmuz.ru
 ostome.ru
@@ -632795,6 +632930,7 @@ outdoor-fit.ru
 outdooradventurespace.space
 outdooranimalporn.com
 outdoorbestialityporn.com
+outdoorfenix.ru
 outdoormebel.ru
 outdoorparty.ru
 outdoorporn.one
@@ -645571,6 +645707,7 @@ pinup-3tv1.xyz
 pinup-3vhod.ru
 pinup-3whs.xyz
 pinup-3yy1.xyz
+pinup-3z6t.top
 pinup-400.top
 pinup-404.top
 pinup-404.xyz
@@ -645609,6 +645746,7 @@ pinup-5lj.top
 pinup-5mor.xyz
 pinup-5pi.top
 pinup-5pp.top
+pinup-5tya.cfd
 pinup-5u9s.xyz
 pinup-5uu.xyz
 pinup-5uwq.xyz
@@ -645658,6 +645796,7 @@ pinup-7vi5r1y.cam
 pinup-7wbu.xyz
 pinup-80.xyz
 pinup-801.ru
+pinup-80e.top
 pinup-81.ru
 pinup-82.ru
 pinup-820.online
@@ -645745,6 +645884,7 @@ pinup-ampnader.top
 pinup-ampwsx.ru
 pinup-amt.top
 pinup-an.top
+pinup-anq23.top
 pinup-aor.top
 pinup-ap.ru
 pinup-apj.top
@@ -646116,6 +646256,7 @@ pinup-eya71.cam
 pinup-eyb.top
 pinup-eyc.top
 pinup-eyq.top
+pinup-f0us.top
 pinup-f24f.click
 pinup-f85ux4x.top
 pinup-fam.top
@@ -646178,6 +646319,7 @@ pinup-fmy0.top
 pinup-fnq.top
 pinup-fnzm.click
 pinup-fod.top
+pinup-foh.top
 pinup-foq.top
 pinup-fpb.top
 pinup-fpi.top
@@ -646189,6 +646331,7 @@ pinup-frd3.top
 pinup-frf.top
 pinup-ftd.top
 pinup-ftt.top
+pinup-fua22.cfd
 pinup-fug.top
 pinup-fun.com
 pinup-fun123.top
@@ -646314,6 +646457,7 @@ pinup-gto.top
 pinup-gvk.top
 pinup-gwh.top
 pinup-gxa.online
+pinup-gxd35.top
 pinup-gxok57z.cam
 pinup-gxv.top
 pinup-gxw.top
@@ -646785,6 +646929,7 @@ pinup-nan1.top
 pinup-nbe7.top
 pinup-nbq.top
 pinup-nbs.top
+pinup-nbt.top
 pinup-ncl4.cam
 pinup-nederland.com
 pinup-neo.online
@@ -646987,6 +647132,7 @@ pinup-ogt.top
 pinup-oh28gj6.top
 pinup-ohy.top
 pinup-oia.top
+pinup-oiz.top
 pinup-oj9q.lol
 pinup-oki18.top
 pinup-olm.top
@@ -648254,6 +648400,7 @@ pinup34.com
 pinup34.site
 pinup34.win
 pinup343bk.com
+pinup345.lol
 pinup345.top
 pinup346-top.win
 pinup35.com
@@ -651130,6 +651277,7 @@ play-book-of-ra-online.com
 play-brilks.top
 play-brillx.beauty
 play-brillx.bond
+play-brillx.hair
 play-brillx.top
 play-card.ru
 play-cashwins.ru
@@ -653743,6 +653891,7 @@ poimelka.club
 poimru.com
 poineerunitedbnk.org
 point-auto.ru
+point-seo.net
 point.im
 point.md
 point26.ru
@@ -654053,6 +654202,7 @@ polesenka.ru
 polesie-cosmetics.ru
 polesiekrim.ru
 polet-alushta.ru
+poletmisli.ru
 poletparaplan.ru
 poletpark.ru
 poletservice.ru
@@ -659026,6 +659176,7 @@ premier-one.xyz
 premier-pack.ru
 premier-palace.ru
 premier-plaza.ru
+premier-riga.ru
 premier-ru.ru
 premier-s.ru
 premier-serial.site
@@ -662189,6 +662340,7 @@ programcorp.click
 programdownloadfree.com
 programgaz.ru
 programlesprom.ru
+programma-fenix.ru
 programma-pohudei.ru
 programma-rus.com
 programmart.ru
@@ -665034,6 +665186,7 @@ prostomayki.com.ua
 prostomebel63.ru
 prostomob.com
 prostomodno.com
+prostomomsclub.ru
 prostoonis.sbs
 prostopaket.ru
 prostoplov.ru
@@ -665976,6 +666129,7 @@ psch52.ru
 pscomplekt.ru
 pscov.ru
 pscp.tv
+psd87.ru
 psdbanl.tech
 psdinfo.info
 psdlank.online
@@ -672271,6 +672425,7 @@ rbt-amp-310.ru
 rbt-amp-313.ru
 rbt-amp-314.ru
 rbt-amp-321.ru
+rbt-amp-325.ru
 rbt-amp-330.ru
 rbt-amp-336.ru
 rbt-amp-339.ru
@@ -674177,6 +674332,7 @@ referencemen.com
 referencemen.live
 referendum-rf.info
 referenta.info
+referiiqlinks.com
 referilink.com
 referishlinks.com
 referixo.info
@@ -675951,6 +676107,7 @@ rembita.ru
 rembitmash24.ru
 rembitnsk.ru
 rembitpro.ru
+rembitsrvvar.ru
 rembittex.ru
 rembrabok.site
 rembrandfranchise.ru
@@ -676097,6 +676254,7 @@ remont-om.ru
 remont-omega.ru
 remont-ot-zheni.ru
 remont-otdelka-ekaterinburg.ru
+remont-pc-dom.ru
 remont-photoapparatov.ru
 remont-pk116.ru
 remont-plastikovih-okon.ru
@@ -678739,6 +678897,7 @@ rio1-amp-mobile.ru
 rio1-amp1-site.ru
 rio1.monster
 rio161.ru
+rio2.ru
 rio39.ru
 rio48.ru
 rioaccess.club
@@ -678753,6 +678912,7 @@ rioamp.best
 rioamp.click
 rioamp.club
 rioamp.digital
+rioamp.help
 rioamp.homes
 rioamp.icu
 rioamp.life
@@ -682066,6 +682226,7 @@ royalrussia27.com
 royalrussia29.com
 royalrussia3.com
 royalrussia31.com
+royalrussia315.com
 royalrussia318.com
 royalrussia33.com
 royalrussia35.com
@@ -688313,6 +688474,7 @@ samakaevanumerolog.su
 samakite.ru
 samalstroy.kz
 samamyi9.ru
+samana-excursiones.com
 samapps.ru
 samarena.life
 samarkand-restoran.ru
@@ -693227,6 +693389,7 @@ selector71.online
 selector8.beer
 selector8.casa
 selector8.cfd
+selector8.monster
 selector8.top
 selector827.ru
 selector845.top
@@ -693397,6 +693560,7 @@ selektoskasin.site
 selektr.beauty
 selektr.club
 selektr.cyou
+selektr.hair
 selektr.icu
 selektr.ink
 selektr.life
@@ -708070,6 +708234,7 @@ snowysnowicatyo.pro
 snowyswim.life
 snp-500.com
 snpkaluga.ru
+snpled.ru
 snpltd.su
 snruslit.ru
 snsafonova.ru
@@ -712505,6 +712670,7 @@ sroyte.ru
 srp.bio
 srp.quest
 srqwebsitecentral.com
+srs-techpr.com
 srs.bio
 srsoftsolution.com
 srsp4.ru
@@ -714308,6 +714474,7 @@ starwaygps.ru
 starwaywealth.com
 starwheel.ru
 starwing.sbs
+starygdansk.ru
 staryj-oskol-intim.ru
 staryoutube.ru
 staryy-oskolnews.ru
@@ -714397,6 +714564,7 @@ status121.ru
 status125.ru
 status52.ru
 status56.ru
+statusdoor72.ru
 statusfilm.ru
 statusgo.ru
 statuskmv.ru
@@ -719024,6 +719192,7 @@ sur-girux.info
 sur-varium.ru
 sur56gyt.ru
 sura-centr.ru
+sura-mordovia.ru
 sura-stroi.ru
 suraelit.ru
 surajkumarkashi.com
@@ -722117,6 +722286,7 @@ taker2.com
 taker2.fun
 taker20.fun
 taker3.fun
+taker4.com
 taker4.fun
 taker5.fun
 taker6.fun
@@ -767943,6 +768113,7 @@ winity.bar
 winity.bond
 winity.com
 winity.live
+winity.online
 winity.today
 winity.top
 winity.uno
@@ -767960,6 +768131,7 @@ winity3.ru
 winity4.ru
 winity4rt.com
 winity5.ru
+winity7.fun
 winity7.online
 winity8.ru
 winity82.online
@@ -774513,6 +774685,7 @@ yaldahakimfoundation.org
 yale.edu
 yalenkino.best
 yalenkino.click
+yalenkino.club
 yalenkino.com
 yalenkino.me
 yalenkino.net
@@ -776594,6 +776767,7 @@ z6.pics
 z6i.org
 z6m.live
 z6serial.online
+z6x2c7vb.top
 z7serial.online
 z7z7z.ne
 z7z7z.net
@@ -778308,6 +778482,7 @@ zeenom.ru
 zeerkalo.fun
 zeevaprofitai.net
 zef1r.pw
+zefenix.ru
 zefenndeopro.com
 zeferinomarcelino.xyz
 zeferuo4.pro
