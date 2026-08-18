@@ -42017,7 +42017,6 @@
 104.26.6.150
 104.26.6.152
 104.26.6.153
-104.26.6.157
 104.26.6.16
 104.26.6.161
 104.26.6.162
@@ -42162,7 +42161,6 @@
 104.26.7.150
 104.26.7.152
 104.26.7.153
-104.26.7.157
 104.26.7.16
 104.26.7.161
 104.26.7.162
@@ -69802,7 +69800,6 @@
 149.255.59.124
 149.255.59.13
 149.255.62.91
-149.28.108.191
 149.28.143.47
 149.28.148.103
 149.28.168.135
@@ -103684,7 +103681,6 @@
 172.67.73.114
 172.67.73.115
 172.67.73.116
-172.67.73.119
 172.67.73.121
 172.67.73.123
 172.67.73.125
@@ -108931,7 +108927,6 @@
 178.62.203.231
 178.62.204.165
 178.62.204.230
-178.62.204.7
 178.62.204.89
 178.62.205.174
 178.62.205.205
@@ -137817,7 +137812,6 @@
 2001:df0:27b:2::9:a261
 2001:df0:27b:3::7:a3
 2001:df1:1940::87
-2001:df1:7800:2::2:a088
 2001:df1:7800:2::3:614f
 2001:df6:a900:1::6
 2001:df7:3c00:efff::236
@@ -138175,7 +138169,6 @@
 203.170.190.20
 203.170.87.105
 203.175.125.173
-203.175.8.55
 203.175.9.119
 203.18.98.102
 203.18.98.214
@@ -144761,7 +144754,6 @@
 213.174.158.36
 213.174.158.69
 213.174.159.142
-213.174.159.177
 213.174.159.181
 213.174.159.222
 213.174.159.223
@@ -236397,7 +236389,6 @@
 2606:4700:20::681a:696
 2606:4700:20::681a:698
 2606:4700:20::681a:699
-2606:4700:20::681a:69d
 2606:4700:20::681a:69e
 2606:4700:20::681a:6a1
 2606:4700:20::681a:6a3
@@ -236506,7 +236497,6 @@
 2606:4700:20::681a:796
 2606:4700:20::681a:798
 2606:4700:20::681a:799
-2606:4700:20::681a:79d
 2606:4700:20::681a:79e
 2606:4700:20::681a:7a
 2606:4700:20::681a:7a1
@@ -237888,7 +237878,6 @@
 2606:4700:20::ac43:496f
 2606:4700:20::ac43:4971
 2606:4700:20::ac43:4972
-2606:4700:20::ac43:4977
 2606:4700:20::ac43:4978
 2606:4700:20::ac43:497b
 2606:4700:20::ac43:497d
@@ -263615,6 +263604,7 @@
 2606:4700:3033::6815:1e47
 2606:4700:3033::6815:1e48
 2606:4700:3033::6815:1e49
+2606:4700:3033::6815:1e4f
 2606:4700:3033::6815:1e55
 2606:4700:3033::6815:1e5d
 2606:4700:3033::6815:1e7b
@@ -277820,6 +277810,7 @@
 2606:4700:3034::ac43:9d87
 2606:4700:3034::ac43:9d89
 2606:4700:3034::ac43:9d8d
+2606:4700:3034::ac43:9d8f
 2606:4700:3034::ac43:9d90
 2606:4700:3034::ac43:9d92
 2606:4700:3034::ac43:9d97
@@ -298807,6 +298798,7 @@
 2606:4700:3037::6815:28d8
 2606:4700:3037::6815:28dc
 2606:4700:3037::6815:28e0
+2606:4700:3037::6815:28e3
 2606:4700:3037::6815:28e5
 2606:4700:3037::6815:28f
 2606:4700:3037::6815:28f0
@@ -304968,6 +304960,7 @@
 2606:4700:3037::ac43:ac76
 2606:4700:3037::ac43:ac7b
 2606:4700:3037::ac43:ac7e
+2606:4700:3037::ac43:ac80
 2606:4700:3037::ac43:ac87
 2606:4700:3037::ac43:ac88
 2606:4700:3037::ac43:ac8c
@@ -352894,6 +352887,7 @@
 4slon4cc.ru
 4slon5-cc.ru
 4slon6cc.ru
+4slona.com
 4slona.net
 4smartphone.ru
 4soclift.online
@@ -363816,7 +363810,6 @@
 57.128.131.233
 57.128.155.70
 57.128.177.174
-57.128.187.235
 57.128.193.179
 57.128.200.63
 57.128.229.16
@@ -377082,6 +377075,7 @@
 85.17.28.47
 85.17.28.53
 85.17.28.54
+85.17.29.231
 85.17.29.235
 85.17.29.249
 85.17.39.106
@@ -383580,6 +383574,7 @@
 91.244.172.83
 91.244.247.200
 91.245.227.175
+91.245.227.189
 91.246.41.219
 91.247.36.113
 91.247.36.118
@@ -402270,7 +402265,6 @@ aqleads.online
 aqmaster.ru
 aqparataidyny.kz
 aqr-quantify.vip
-aqraacademy.com
 aqreqator.az
 aqrisprime.net
 aqs-sa.com
@@ -455290,7 +455284,6 @@ dailycountrynews.com
 dailydelicatessen.com
 dailydigitalreturn.com
 dailydokhodchivo.ru
-dailydownloaded.com
 dailyearners247.com
 dailyearning.live
 dailyfit.ru
@@ -485546,6 +485539,7 @@ fastserial.club
 fastsex.click
 fastsex.top
 fastshippingviagra.ru
+fastsliv.org
 fastsliv.ru
 fastsolution23.com
 fastspeed.site
@@ -508250,6 +508244,7 @@ gholpertl.click
 ghost-connect.xyz
 ghost-host.ru
 ghost.io
+ghost2vps.com
 ghost2vps.net
 ghostbloods.com
 ghostbustersa.ru
@@ -510027,7 +510022,6 @@ glavk1.com
 glavk1.net
 glavk1.one
 glavk1.org
-glavk1.se
 glavk1.vip
 glavk2.net
 glavk2.org
@@ -517320,6 +517314,7 @@ gostreams.info
 gostsearch.ru
 gostseptik.ru
 gostsprawca.info
+gostsvps.net
 gosttrans.ru
 gosttvds.com
 gostvps.com
@@ -524346,7 +524341,6 @@ gynoexclusive.com
 gynonco.ru
 gynozia8.pro
 gynupae4.pro
-gyo.green
 gyoza-yatai.com
 gypejie3.pro
 gypekiy1.pro
@@ -528307,6 +528301,7 @@ hentaiworld.me
 hentaiworld.tv
 hentaiworlds.cc
 hentaix.ru
+hentaixcomic.com
 hentaixdickgirl.com
 hentaixxx.me
 hentaixxxcomics.com
@@ -534579,7 +534574,6 @@ icg24.com
 icgame.ru
 icglobalengine.com
 ichado.ru
-ichan.net
 ichbindina.com
 iche.co.kr
 ichecker.ru
@@ -610897,7 +610891,6 @@ lpsg.com
 lpsoc.ru
 lpteamconsultoria.com
 lptes.ru
-lptp.or.id
 lptqsxx-dokispecrfdokispecrf-doki-spec-rf.click
 lptrecker.ru
 lpu-zheleznovodsk.ru
@@ -641229,6 +641222,7 @@ neemble.ru
 neenasnotary.com
 neerenicle-street.com
 neergy.com
+neetflix-lordseriall.ru
 neetya.com
 neewbaankeer.biz
 neewlast.online
@@ -649000,6 +648994,7 @@ oao-aps.ru
 oao-bks.ru
 oao-dolina.ru
 oao-istok.ru
+oao-ksk.com
 oao-kvartz.ru
 oao-msz.ru
 oao-niti.com
@@ -694513,7 +694508,6 @@ psychedelicstribe.com
 psychedelicsupplys.com
 psychedelicszone.com
 psychedelicszoomies.com
-psychedelictherapyau.com
 psychedelictop.com
 psychedelictrip.uk
 psychedelictripers.com
@@ -730091,6 +730085,7 @@ shipovnik.ua
 shipping-sheksna.ru
 shipru.ru
 shipseals.com
+shipuchkanet.xyz
 shipwar.top
 shirakdiocese.am
 shirasuka-takaki.com
@@ -739434,7 +739429,6 @@ solarminex.com
 solarooenergy.com
 solarpowerit.online
 solarprogram.site
-solarrecords.net
 solartecna.com
 solarthera.com
 solarwindfest.ru
@@ -760150,6 +760144,7 @@ titfap.com
 titfit.ru
 titiev.info
 titih.ru
+tititok.art
 titiz.ru
 titjdhfx25.site
 titleorderdoc.com
@@ -766573,13 +766568,11 @@ trip70.co
 trip71.at
 trip71.co
 trip72.at
-trip73.ac
 trip74.at
 trip74.co
 trip74.pw
 trip74.st
 trip74coo.ru
-trip75.ac
 trip75.co
 trip75.com
 trip75.live
@@ -805910,7 +805903,6 @@ xsrv.jp
 xss.su
 xsslo.ru
 xstake.ru
-xstalk.com
 xstasy.club
 xstockvia.today
 xston.ru
