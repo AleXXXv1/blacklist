@@ -63821,6 +63821,7 @@
 131.123.37.238
 131.123.37.241
 131.123.37.40
+131.123.38.51
 131.123.39.117
 131.123.39.14
 131.123.39.148
@@ -72472,7 +72473,6 @@
 159.253.18.20
 159.253.18.248
 159.253.19.136
-159.253.20.253
 159.253.20.254
 159.253.20.41
 159.253.21.134
@@ -129438,7 +129438,6 @@
 193.16.237.91
 193.160.119.139
 193.160.64.124
-193.161.202.149
 193.161.202.154
 193.161.202.63
 193.161.204.37
@@ -318509,7 +318508,6 @@
 2a02:4780:27:1034:0:3357:8f18:e
 2a02:4780:27:1036:0:17f3:2dc7:a
 2a02:4780:27:1036:0:371b:9e53:2
-2a02:4780:27:1036:0:c21:fe16:2
 2a02:4780:27:1065:0:1964:354d:a
 2a02:4780:27:1065:0:1964:354d:d
 2a02:4780:27:1065:0:1964:354d:e
@@ -380997,7 +380995,6 @@
 89.116.133.63
 89.116.138.133
 89.116.147.110
-89.116.147.115
 89.116.147.140
 89.116.147.187
 89.116.147.26
@@ -386555,7 +386552,6 @@
 93.104.213.207
 93.113.175.1
 93.113.175.102
-93.113.175.108
 93.113.175.11
 93.113.175.114
 93.113.175.115
@@ -419765,7 +419761,6 @@ benfilm.net
 benfilm.org
 benfirearms.net
 benfolds.business
-bengaligirlfucked.com
 bengalina.ru
 bengalwin.site
 bengalwood.ru
@@ -421859,7 +421854,6 @@ biblioteh.ru
 biblioteka-askino.ru
 biblioteka-bar.ru
 biblioteka-chr.ru
-biblioteka-flibusta.com
 biblioteka-poeta.ru
 biblioteka-religiy.ru
 biblioteka-restaurant.ru
@@ -456152,7 +456146,6 @@ cystous.club
 cysureus.com
 cysygyu.xyz
 cyt03.ru
-cyt04.ru
 cytadel.org
 cytata-amp.xyz
 cytergo.com
@@ -515537,7 +515530,6 @@ gohazyo5.pro
 gohegoi6.pro
 gohentai.info
 gohesae9.pro
-gohiai.com
 gohibie3.pro
 gohicai7.pro
 gohigher.digital
@@ -531969,7 +531961,6 @@ hm228.com
 hm6.ru
 hm74.ru
 hmanga.asia
-hmanga.my
 hmanga.org
 hmanga.today
 hmanga.world
@@ -628119,7 +628110,6 @@ mhd-tv.ru
 mhdentist.ru
 mhdtvworld.xyz
 mhentai.net
-mhentai.vip
 mhfzrjiphgnzrj.xyz
 mhg.ru
 mhj6pz3.life
@@ -637172,7 +637162,6 @@ mrvideospornogratis.xxx
 mrvine.al
 mrvintageporn.com
 mrvykup.ru
-mrwolf.ru
 mrwolf.space
 mrwoodsev.ru
 mrwork.ru
@@ -644967,7 +644956,6 @@ neuro-pax-aitech.com
 neuro-vuch.ru
 neuroaestheticsf.com
 neuroai.in
-neuroandmotion.com
 neuroanna.ru
 neuroartifix.net
 neurobi.life
@@ -657347,7 +657335,6 @@ onlinepokies.com
 onlinepokies4u.com
 onlinepokiessite.com
 onlinepornhub.net
-onlineporno.link
 onlinepornohd.net
 onlinepornushka.net
 onlineprofitforum.com
@@ -699893,7 +699880,6 @@ qqmf.ru
 qqq-tss.ru
 qqq-ttss.su
 qqqporn.com
-qqtoon.com
 qquantify.com
 qqvpn.net
 qr-check.ru
@@ -746279,7 +746265,6 @@ st-arbitr.ru
 st-arenda19.ru
 st-arrows.ru
 st-board.ru
-st-cars.ru
 st-catering.ru
 st-club.live
 st-desta.ru
